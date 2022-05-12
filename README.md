@@ -7,6 +7,21 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 
+<h3 align="center">Materiais</h3>
+
+<h3 align=>Cypress</h3>
+
+1. [Desafio Totvs](https://github.com/Ingrid2110rj/DesafioTotvs)
+1. [(Avançado) Implementação do 'nirvana' do teste de contrato com Pact](https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrato)
+1. [(Intermediário) Demonstração de implementação de teste unitário em aplicação Serverless](https://github.com/PauloGoncalvesBH/lambda-unit-test)
+1. [(Intermediário) Aprenda Test Driven Development (TDD) na prática](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)
+1. [(Intermediário) Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
+1. [(Intermediário) Implementação de um spy, mock, expect e estrutura dos testes sem usar lib](https://github.com/PauloGoncalvesBH/my-framework-test)
+1. [(Intermediário) Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
+1. [(Iniciante) Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git)
+
+
+
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ingridferreira2110)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ingrid-ferreira-286249177/)
 
