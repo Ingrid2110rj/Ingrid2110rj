@@ -13,7 +13,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 1. [Desafio Zé Delivery](https://github.com/Ingrid2110rj/DesafioZe)
 1. [Automação de teste de API utilizando Postman- Serverest](https://github.com/Ingrid2110rj/Teste-API-Serverest)
 1. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
-1. [(Intermediário) Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
+1. [Teste de mutação 👽](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
 1. [(Intermediário) Implementação de um spy, mock, expect e estrutura dos testes sem usar lib](https://github.com/PauloGoncalvesBH/my-framework-test)
 1. [(Intermediário) Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
 1. [(Iniciante) Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git)
