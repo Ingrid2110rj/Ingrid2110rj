@@ -9,10 +9,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 <h3 align="center">Materiais</h3>
 
-<h3 align=>Cypress</h3>
-
 1. [Desafio Totvs](https://github.com/Ingrid2110rj/DesafioTotvs)
-1. [(Avançado) Implementação do 'nirvana' do teste de contrato com Pact](https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrato)
+1. [Desafio Zé Delivery](https://github.com/Ingrid2110rj/DesafioZe)
 1. [(Intermediário) Demonstração de implementação de teste unitário em aplicação Serverless](https://github.com/PauloGoncalvesBH/lambda-unit-test)
 1. [(Intermediário) Aprenda Test Driven Development (TDD) na prática](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)
 1. [(Intermediário) Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
