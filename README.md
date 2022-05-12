@@ -9,9 +9,9 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 <h3 align="center">Materiais</h3>
 
-1. [Desafio Totvs](https://github.com/Ingrid2110rj/DesafioTotvs)
+1. [Desafio Totvs (Automação com Cypress e Postman)](https://github.com/Ingrid2110rj/DesafioTotvs)
 1. [Desafio Zé Delivery](https://github.com/Ingrid2110rj/DesafioZe)
-1. [(Intermediário) Demonstração de implementação de teste unitário em aplicação Serverless](https://github.com/PauloGoncalvesBH/lambda-unit-test)
+1. [Automação de teste de API utilizando Postman](https://github.com/PauloGoncalvesBH/lambda-unit-test)
 1. [(Intermediário) Aprenda Test Driven Development (TDD) na prática](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)
 1. [(Intermediário) Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
 1. [(Intermediário) Implementação de um spy, mock, expect e estrutura dos testes sem usar lib](https://github.com/PauloGoncalvesBH/my-framework-test)
