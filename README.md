@@ -1,11 +1,12 @@
+ <h1 align="left">Ingrid Ferreira</h1>
 
+### Hello👋 
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+Tenho 36 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou Quality assurance (QA) em formação,caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 <h3 align="center">Materiais</h3>
 
@@ -16,6 +17,26 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 1. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
 
 
+#### 📗 Conhecimentos técnicos:<h3>  
+  ⚡   *Conceitos e métodos de testes de Softwares manuais e automatizados(UI-Web e API).*
+  
+  ⚡   *Scrum Framework*
+  
+  ⚡   *BDD e Gherkin.*
+ 
+  ⚡   *JavaScript.*  
+
+#### 🛠️ *Ferramentas: <h4>*
+⚡ *Cypress.*
+  
+⚡ *VS Code.*
+ 
+ ⚡ *Azure.*
+  
+⚡ *SQL Server 2019 - DML*
+  
+⚡ *Postman*
+  
 
 
 
