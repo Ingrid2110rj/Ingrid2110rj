@@ -2,7 +2,8 @@
 
 ### Hello, Eu sou Ingrid Ferreira👋 
 
-- 🔭 Estou trabalhando na Ambev Tech como Quality Assurance.
+- 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
+- 🌱Completamente apaixonada por testes e automação.
 - 😄Motivado por desafios. Movido pelo aprendizado ao longo da vida.
 - ⚡ Em uma frase: eu sou um curioso auto-aprendiz apaixonado por aprender.
 <p align="center">
