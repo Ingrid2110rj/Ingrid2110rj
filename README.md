@@ -1,6 +1,6 @@
- <h1 align="left">Ingrid Ferreira</h1>
 
-### Hello👋 
+
+### Hello, Eu sou Ingrid Ferreira👋 
 
 Tenho 36 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou Quality assurance (QA) em formação,caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
