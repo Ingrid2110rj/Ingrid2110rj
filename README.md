@@ -2,8 +2,9 @@
 
 ### Hello, Eu sou Ingrid Ferreira👋 
 
-Tenho 36 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação! Sou Quality assurance (QA) em formação,caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
-
+- 🔭 Estou trabalhando na Ambev Tech como Quality Assurance.
+- 😄Motivado por desafios. Movido pelo aprendizado ao longo da vida.
+- ⚡ Em uma frase: eu sou um curioso auto-aprendiz apaixonado por aprender.
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
