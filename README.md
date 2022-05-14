@@ -5,7 +5,7 @@
 - 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
 - 🌱Completamente apaixonada por testes e automação.
 - 😄Motivado por desafios. Movido pelo aprendizado ao longo da vida.
-- ⚡ Em uma frase: eu sou um curioso auto-aprendiz apaixonado por aprender.
+- ⚡ Em uma frase: eu sou uma curiosa auto-aprendiz apaixonado por aprender.
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
