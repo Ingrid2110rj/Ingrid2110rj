@@ -1,5 +1,3 @@
-
-
 ### Hello, Eu sou Ingrid Ferreira👋 
 
 - 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
@@ -10,6 +8,7 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
+
 <h3 align="center">Materiais</h3>
 
 1. [Desafio Totvs](https://github.com/Ingrid2110rj/DesafioTotvs)
@@ -19,6 +18,7 @@
 1. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
 1. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
 1. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
+
 
 
 #### 📗 Conhecimentos técnicos:<h3>  
