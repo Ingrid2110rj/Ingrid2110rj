@@ -18,7 +18,7 @@
 1. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
 1. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
 1. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
-
+1. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
 
 
 #### 📗 Conhecimentos técnicos:<h3>  
