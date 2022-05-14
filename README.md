@@ -16,8 +16,9 @@
 1. [Desafio Zé Delivery](https://github.com/Ingrid2110rj/DesafioZe)
 1. [Automação de teste de API utilizando Postman- Serverest](https://github.com/Ingrid2110rj/Teste-API-Serverest)
 1. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
-1. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
 1. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
+1. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
+
 
 
 #### 📗 Conhecimentos técnicos:<h3>  
