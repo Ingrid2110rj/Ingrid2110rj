@@ -16,9 +16,10 @@
 1. [Desafio API Serverest](https://github.com/Ingrid2110rj/Teste-API-Serverest)
 1. [Desafio API REST- Júlio de Lima](https://github.com/Ingrid2110rj/DesafioAPI_Julio-de-Lima)
 3. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
-4. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
-5. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
-6. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
+3. [Desafio Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
+5. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
+6. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
+7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
 
 
 
