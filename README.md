@@ -1,5 +1,7 @@
 ### Hello, Eu sou Ingrid Ferreira <img src="https://raw.githubusercontent.com/Qatata/Qatata/master/wave.gif" width="30px">
 
+- 👨 Mãe do Davi
+- 🎓 Bacharel em Engenharia de Produção 
 - 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
 - 🌱Completamente apaixonada por testes e automação.
 - 😄Motivada por desafios. Movida pelo aprendizado ao longo da vida.
