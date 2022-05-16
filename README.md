@@ -1,4 +1,4 @@
-### Hello, Eu sou Ingrid Ferreira👋 
+### Hello, Eu sou Ingrid Ferreira <img src="https://raw.githubusercontent.com/Qatata/Qatata/master/wave.gif" width="30px">
 
 - 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
 - 🌱Completamente apaixonada por testes e automação.
