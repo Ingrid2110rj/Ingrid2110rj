@@ -13,13 +13,13 @@
 
 <h3 align="center">Materiais</h3>
 
-1. [Desafio Totvs](https://github.com/Ingrid2110rj/DesafioTotvs)
-1. [Desafio Zé Delivery](https://github.com/Ingrid2110rj/DesafioZe)
-1. [Desafio API Serverest](https://github.com/Ingrid2110rj/Teste-API-Serverest)
+1. [Automação Totvs](https://github.com/Ingrid2110rj/DesafioTotvs)
+1. [Automação Zé Delivery](https://github.com/Ingrid2110rj/DesafioZe)
+1. [Automação API Serverest](https://github.com/Ingrid2110rj/Teste-API-Serverest)
 1. [Desafio API REST- Júlio de Lima](https://github.com/Ingrid2110rj/DesafioAPI_Julio-de-Lima)
-3. [Desafio Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
-3. [Desafio Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
-5. [Desafio Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
+3. [Automação Fleury](https://github.com/Ingrid2110rj/qa_automation_web)
+3. [Automação Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
+5. [Automação Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
 6. [Dojo Cypress](https://github.com/Ingrid2110rj/DOJO)
 6. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
 7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
