@@ -24,6 +24,7 @@
 6. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
 7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
 7. [Mapa Mental CTFL](https://miro.com/app/board/uXjVO8KY7kY=/)
+7. [Coodesh](https://github.com/Ingrid2110rj/challenge-coodesh)
 
 
 
