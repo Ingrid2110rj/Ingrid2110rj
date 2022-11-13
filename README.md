@@ -21,10 +21,11 @@
 3. [Automação Reserva de Mesa](https://github.com/Ingrid2110rj/DesafioReservadeMesa)
 5. [Automação Estratégia Concurso](https://github.com/Ingrid2110rj/desafioQAG5)
 7. [Coodesh](https://github.com/Ingrid2110rj/challenge-coodesh)
-6. [Dojo Cypress](https://github.com/Ingrid2110rj/DOJO)
-6. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
-7. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
-7. [Mapa Mental CTFL](https://miro.com/app/board/uXjVO8KY7kY=/)
+8. [Desafio Hydra Games](https://github.com/Ingrid2110rj/HydraGames)
+9. [Dojo Cypress](https://github.com/Ingrid2110rj/DOJO)
+10. [Teste de mutação 👽](https://github.com/Ingrid2110rj/TestedeMutacao)
+11. [Automação BugBank](https://github.com/Ingrid2110rj/BugBank)
+12. [Mapa Mental CTFL](https://miro.com/app/board/uXjVO8KY7kY=/)
 
 
 
