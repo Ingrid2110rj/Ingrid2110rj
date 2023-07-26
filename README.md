@@ -2,7 +2,7 @@
 
 - 👨 Mãe do Davi
 - 🎓 Bacharel em Engenharia de Produção 
-- 🔭 Estou trabalhando na Ambev Tech como Quality Assurance (QA).
+- 🔭  Quality Assurance (QA).
 - 🌱Completamente apaixonada por testes e automação.
 - 😄Motivada por desafios. Movida pelo aprendizado ao longo da vida.
 - ⚡ Em uma frase: eu sou uma curiosa auto-aprendiz apaixonada por aprender.
